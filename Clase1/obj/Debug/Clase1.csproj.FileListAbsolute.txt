@@ -1,0 +1,8 @@
+C:\Users\CURLING\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\CURLING\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe
+C:\Users\CURLING\source\repos\Clase1\Clase1\bin\Debug\Clase1.pdb
+C:\Users\CURLING\source\repos\Clase1\Clase1\obj\Debug\Clase1.csproj.AssemblyReference.cache
+C:\Users\CURLING\source\repos\Clase1\Clase1\obj\Debug\Clase1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CURLING\source\repos\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\CURLING\source\repos\Clase1\Clase1\obj\Debug\Clase1.exe
+C:\Users\CURLING\source\repos\Clase1\Clase1\obj\Debug\Clase1.pdb
